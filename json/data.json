@@ -1,0 +1,38 @@
+{
+"results" : [
+
+{
+
+"id":1,
+"firstName":"siwe",
+"surname":"cele",
+"email": "siwe@gmail.com"
+
+
+},{
+
+
+"id":1,
+"firstName":"apesh",
+"surname":"sobnt",
+"email": "ap@gmail.com"
+
+
+},
+
+{
+
+    "id":2,
+    "firstName":"nonto",
+    "surname":"mhlongo",
+    "email": "nonto@gmail.com"
+    
+    
+    }
+
+
+]
+
+
+
+}
